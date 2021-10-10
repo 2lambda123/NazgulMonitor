@@ -48,4 +48,5 @@ OSK Soft for the big help simplifying the OpenHardwareMonitor lib usage and many
 
 <a href="https://github.com/openhardwaremonitor/openhardwaremonitor">OpenHardwareMonitor</a> for the driver to read CPU and GPU Temperatures <br/>
 <a href="https://dygraphs.com/">dygraphs</a> for their charts implementation <br/>
+<a href="https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id">StackOverflow</a> for their help with the Telegram implementation <br/>
 
