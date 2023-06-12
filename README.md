@@ -40,6 +40,9 @@ Live view from Website (1sec delay only), errors reportage, graph with history
 
 ![image](https://i.gyazo.com/e57d3b9ca993c63ca605135c75707747.gif)
 
+Donations
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/26428acd-41f8-4679-879e-3e00b91bee62) 86Xpx2XiMwtKvn6Cft9k61NWwVNMB9GHNTFt5SVTN5bGLFeLUAzECdmdgBQU9BaSnEaQkjqfRDTyhWm3Lige8SHmR1CbjXU
+
 ### Credits
 Me <br/>
 OSK Soft for the big help simplifying the OpenHardwareMonitor lib usage and many other bug fixes <br/>
